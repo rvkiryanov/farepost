@@ -1,1 +1,4 @@
 <plugin name="nl.x-services.plugins.calendar" spec="4.2.4" source="pgb" />
+<feature name="Calendar">
+  <param name="android-package" value="nl.xservices.plugins.Calendar" />
+</feature>
