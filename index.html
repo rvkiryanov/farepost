@@ -23,6 +23,15 @@ Hallo World!!
 function onDeviceReady() {
     console.log(navigator.contacts);
 }</script>
+
+
+<feature name="SocialSharing">
+  <param name="android-package" value="nl.xservices.plugins.SocialSharing" />
+</feature>
+
+
+
+
 <script>
 function onSuccess(contacts) {
     alert('Found ' + contacts.length + ' contacts.');
