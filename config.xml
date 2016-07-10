@@ -1,4 +1,1 @@
-<plugin name="nl.x-services.plugins.calendar" spec="4.2.4" source="pgb" />
-<feature name="Calendar">
-  <param name="android-package" value="nl.xservices.plugins.Calendar" />
-</feature>
+<gap:plugin name="nl.x-services.plugins.flashlight" version="2.0.0" />
